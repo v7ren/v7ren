@@ -36,7 +36,7 @@
 |--------------|-------------|----------|
 | **GitHub** | Professional Portfolio | [github.com/v7ren](https://github.com/v7ren) |
 | **Discord** | Technical Collaboration | [Discord Profile](https://discordapp.com/users/957578507649683457) |
-| **Instagram** | Professional Networking | [ren._.4497](https://instagram.com/v7r.envy) |
+| **Instagram** | Professional Networking | [V7r.envy](https://instagram.com/v7r.envy) |
 
 ![Xireno's GitHub stats](https://github-readme-stats.vercel.app/api?username=v7ren&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v7ren&layout=compact&theme=radical)
