@@ -10,8 +10,8 @@
 
 | **Domain** | **Technologies** | **Experience Level** | **Active Projects** |
 |------------|------------------|---------------------|---------------------|
-| **Cybersecurity** | Python, Security Tools, Penetration Testing | Advanced | [Advanced C2 RCE](https://github.com/xireno/RCE-malware) and [VmC2reverse-shell](https://github.com/xireno/vmc2) Framework |
-| **Backend Development** | Python, API Development | Expert | [Discord Bot Template](https://github.com/xireno/discord-bot-template) |
+| **Cybersecurity** | Python, Security Tools, Penetration Testing | Advanced | [Advanced C2 RCE](https://github.com/v7ren/RCE-malware) and [VmC2reverse-shell](https://github.com/v7ren/vmc2) Framework |
+| **Backend Development** | Python, API Development | Expert | [Discord Bot Template](https://github.com/v7ren/discord-bot-template) |
 | **Systems Programming** | Client-Server Architecture | Intermediate | Remote Administration Tools |
 | **Database & Infrastructure** | SQL, NoSQL, Linux Administration | Advanced | Data Architecture, System Management |
 
@@ -27,16 +27,16 @@
 
 | **Project** | **Description** | **Technologies** | **Repository** |
 |-------------|-----------------|------------------|----------------|
-| **VmC2reverse-shell** | Modular client-server framework for remote system administration and management with advanced security features | Python, Networking, Security | [View Repository](https://github.com/xireno/vmc2) |
-| **Discord Bot Template** | Versatile Discord bot with comprehensive features, modular commands, role-based permissions, and extensive customization | Java, Discord API, Backend | [View Repository](https://github.com/xireno/discord-bot-template) |
+| **VmC2reverse-shell** | Modular client-server framework for remote system administration and management with advanced security features | Python, Networking, Security | [View Repository](https://github.com/v7ren/vmc2) |
+| **Discord Bot Template** | Versatile Discord bot with comprehensive features, modular commands, role-based permissions, and extensive customization | Java, Discord API, Backend | [View Repository](https://github.com/v7ren/discord-bot-template) |
 
 ## Professional Contact
 
 | **Platform** | **Purpose** | **Link** |
 |--------------|-------------|----------|
-| **GitHub** | Professional Portfolio | [github.com/xireno](https://github.com/xireno) |
+| **GitHub** | Professional Portfolio | [github.com/v7ren](https://github.com/v7ren) |
 | **Discord** | Technical Collaboration | [Discord Profile](https://discordapp.com/users/957578507649683457) |
-| **Instagram** | Professional Networking | [ren._.4497](https://instagram.com/ren._.4497) |
+| **Instagram** | Professional Networking | [ren._.4497](https://instagram.com/v7r.envy) |
 
-![Xireno's GitHub stats](https://github-readme-stats.vercel.app/api?username=xireno&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xireno&layout=compact&theme=radical)
+![Xireno's GitHub stats](https://github-readme-stats.vercel.app/api?username=v7ren&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v7ren&layout=compact&theme=radical)
