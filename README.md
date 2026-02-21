@@ -5,7 +5,15 @@
 </p>
 
 <p align="center">
-  loving my girl
+  <a href="https://github.com/v7ren">
+    <img src="https://skillicons.dev/icons?i=github" width="25px" />
+  </a>
+  <a href="https://discordapp.com/users/957578507649683457">
+    <img src="https://skillicons.dev/icons?i=discord" width="25px" />
+  </a>
+  <a href="https://instagram.com/v7r.envy">
+    <img src="https://skillicons.dev/icons?i=instagram" width="25px" />
+  </a>
 </p>
 
 ---
@@ -79,20 +87,7 @@ SentinAI is an **AI-assisted secure code review system** designed to behave less
 
 ---
 
-## Contact
-
-| Platform | Link |
-|---------|------|
-| GitHub | https://github.com/v7ren |
-| Discord | https://discordapp.com/users/957578507649683457 |
-| Instagram | https://instagram.com/v7r.envy |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v7ren&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v7ren&layout=compact&theme=radical" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/v7ren?cardType=level-alternate&theme=dark&fontFamily=PT%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
